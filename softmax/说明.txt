@@ -1,0 +1,6 @@
+文件说明：
+"prediction"：对测试集的预测结果
+"sofxmax_test"：对模型的评价
+"test"：测试集
+"train"：训练集
+"softmax"：主体代码
