@@ -1,3 +1,4 @@
 text_prediction就是提交的答案
 second_train为训练集（之所以命名为second是为了区别一轮考核的训练集）
 test为测试集
+test_record为每一次训练的参数记录
