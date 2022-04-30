@@ -1,1 +1,3 @@
-text_prediction就是提交的答案，原数据太大，上传不了...
+text_prediction就是提交的答案
+second_train为训练集（之所以命名为second是为了区别一轮考核的训练集）
+test为测试集
